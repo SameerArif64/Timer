@@ -10,4 +10,4 @@ Timer is a lightweight Python library that provides a simple timeout mechanism u
 
 ## Installation
 ```sh
-pip install timer
+pip install git+https://github.com/SameerArif64/Timer
